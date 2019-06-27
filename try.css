@@ -1,0 +1,86 @@
+*{
+    margin:  0px;
+    padding: 0px; 
+}
+.breaking_news {
+    background-color:#e5eae6;
+    padding:0px;
+    width: 50%; 
+}
+.main_header {
+    text-align: center;
+    line-height: 90px;
+    background-color:#3b5277;
+}
+.news_catagories {
+    background-color: #af916d;
+    line-height:30px;
+}
+ul {
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin-right: 20px;  
+}
+a {
+    text-decoration:none;
+    color: black;
+    font-weight: bold;
+}
+.list :hover {
+    background-color:white; 
+}
+.title_bar {
+    text-align: center;
+}
+.breaking_news_header {
+    text-align: center;
+    padding: 5px;    
+}
+section {
+    display:inline-block;
+}
+.headline {
+    padding: 10px;
+    margin-left: 5px;
+}
+.img {
+    float: left;
+    padding: 5px;
+} 
+.paragraph {
+    text-indent: 5px;
+    margin-left: 15px;
+
+}  
+.highlights {
+    background-color:#dcc3e5;
+    width: 673px;
+    height: 515px;
+    float: right;
+    text-align: center;
+}
+.highlight_header {
+    text-align: center;
+    padding-top: 20px;       
+}
+p :hover {
+    background-color: white;
+    text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.For_scrolling  {
+    padding: 10px 0px 0px 5px;
+    margin: 5px;  
+}
+.blogs {
+    background-color: #9ca061;
+}
+.blog_header {
+    text-align: center;
+}
